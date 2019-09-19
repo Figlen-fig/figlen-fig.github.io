@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fiachra Lennon Launches Site"
+title: Fiachra Lennon Launches Site
 date: 2019-09-19
 ---
 
